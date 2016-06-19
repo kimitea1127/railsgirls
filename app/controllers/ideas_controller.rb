@@ -19,6 +19,7 @@ class IdeasController < ApplicationController
 
   # GET /ideas/1/edit
   def edit
+    # 編集
   end
 
   # POST /ideas
